@@ -7,10 +7,10 @@ Help to start a new project and configure all détails :
 - create project proposal template
 
 Collect project details and store in database
- >ProjectName short and extended
- >ProjectResume
- >ProjectCompany
- >ProjectPerson
+ >- ProjectName short and extended
+ >- ProjectResume
+ >- ProjectCompany
+ >- ProjectPerson
  
  Get_projects(year, month,startDate,stopDate,type)
  
